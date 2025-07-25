@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ram.zip filter=lfs diff=lfs merge=lfs -text
 
+=======
+*.zip filter=lfs diff=lfs merge=lfs -text
+ram.zip filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 87258b4 (Added ram.zip using Git LFS)
